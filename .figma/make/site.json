@@ -1,0 +1,10 @@
+{
+  "description": "Explore a searchable YES-O plant encyclopedia with taxonomic classifications and shareable plant pages for Grade 9 students and educators.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
